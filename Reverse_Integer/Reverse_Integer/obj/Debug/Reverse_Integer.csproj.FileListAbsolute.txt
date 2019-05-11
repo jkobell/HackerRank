@@ -1,0 +1,7 @@
+C:\mycsharp\Projects\Reverse_Integer\Reverse_Integer\bin\Debug\Reverse_Integer.exe.config
+C:\mycsharp\Projects\Reverse_Integer\Reverse_Integer\bin\Debug\Reverse_Integer.exe
+C:\mycsharp\Projects\Reverse_Integer\Reverse_Integer\bin\Debug\Reverse_Integer.pdb
+C:\mycsharp\Projects\Reverse_Integer\Reverse_Integer\obj\Debug\Reverse_Integer.csprojAssemblyReference.cache
+C:\mycsharp\Projects\Reverse_Integer\Reverse_Integer\obj\Debug\Reverse_Integer.csproj.CoreCompileInputs.cache
+C:\mycsharp\Projects\Reverse_Integer\Reverse_Integer\obj\Debug\Reverse_Integer.exe
+C:\mycsharp\Projects\Reverse_Integer\Reverse_Integer\obj\Debug\Reverse_Integer.pdb
