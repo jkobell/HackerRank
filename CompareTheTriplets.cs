@@ -2,7 +2,7 @@
 //Name: Compare the Triplets
 //compares the elements of two List and 
 //awards a score point to the higher int
-//a list is returned 
+//a List is returned 
 
 // the function
 static List<int> compareTriplets(List<int> a, List<int> b)
