@@ -5,3 +5,10 @@ C:\mycsharp\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReferenc
 C:\mycsharp\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
 C:\mycsharp\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
 C:\mycsharp\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\GitHub\HackerRank\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\GitHub\HackerRank\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\GitHub\HackerRank\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\GitHub\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\GitHub\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\GitHub\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\GitHub\HackerRank\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
