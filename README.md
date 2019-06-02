@@ -9,3 +9,9 @@ CompareTheTriplets
 
 DiagonalDifference
 
+BubbleSort
+
+Min-Max
+
+
+

@@ -1,0 +1,7 @@
+C:\mycsharp\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\mycsharp\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\mycsharp\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\mycsharp\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\mycsharp\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\mycsharp\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\mycsharp\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
