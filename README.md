@@ -19,6 +19,8 @@ CompareTheTriplets
 
 DiagonalDifference
 
+DivisibleSumPairs
+
 Kangaroo
 
 Min-Max
