@@ -25,6 +25,8 @@ DivisibleSumPairs
 
 Kangaroo
 
+MigratoryBirds
+
 Min-Max
 
 Staircase
