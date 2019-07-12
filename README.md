@@ -1,6 +1,8 @@
 # HackerRank
 HackerRank C# Challenges
 
+AngryProfessor
+
 BubbleSort
 
 FizzBuzz
