@@ -25,6 +25,8 @@ DiagonalDifference
 
 DivisibleSumPairs
 
+DrawingBook
+
 Kangaroo
 
 MigratoryBirds
