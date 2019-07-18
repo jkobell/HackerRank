@@ -27,6 +27,8 @@ DivisibleSumPairs
 
 DrawingBook
 
+ElectronicsShop
+
 Kangaroo
 
 MigratoryBirds
