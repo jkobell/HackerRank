@@ -35,11 +35,15 @@ ElectronicsShop
 
 HourglassSum
 
+HurdleRace
+
 Kangaroo
 
 MigratoryBirds
 
 Min-Max
+
+PickingNumbers [Incomplete]
 
 SockMerchant
 
