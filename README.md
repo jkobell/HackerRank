@@ -11,6 +11,8 @@ Reverse_Integer
 
 ApplesAndOranges
 
+BeautifulDays
+
 BetweenTwoSets [Incomplete]
 
 Birthday Cake Candles
