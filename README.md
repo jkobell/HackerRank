@@ -37,6 +37,8 @@ DrawingBook
 
 ElectronicsShop
 
+FindDigits
+
 HourglassSum
 
 HurdleRace
