@@ -5,3 +5,10 @@ C:\mycsharp\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyRe
 C:\mycsharp\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
 C:\mycsharp\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
 C:\mycsharp\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\GitHub\HackerRank\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\GitHub\HackerRank\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\GitHub\HackerRank\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\GitHub\HackerRank\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\GitHub\HackerRank\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\GitHub\HackerRank\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\GitHub\HackerRank\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

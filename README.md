@@ -43,7 +43,11 @@ HourglassSum
 
 HurdleRace
 
+JumpingOnClouds
+
 Kangaroo
+
+MarsExploration
 
 MigratoryBirds
 
